@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-react-1u3StmuK8x)
 - Live Site URL: [Netlify](https://fm-mentor-clipboard-landing-page.netlify.app)
 
 ## My process
