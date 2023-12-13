@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const StyledHeader = styled.header`
-  background: url("../public/bg-header-mobile.png");
+  background: url("bg-header-mobile.png");
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -9,7 +9,7 @@ const StyledHeader = styled.header`
   height: 200px;
 
   @media (min-width: 23.43em) {
-    background: url("../public/bg-header-desktop.png");
+    background: url("bg-header-desktop.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -22,7 +22,7 @@ const Image = styled.img`
 export default function Header() {
   return (
     <StyledHeader>
-      <Image src="../public/logo.svg" alt="logo" />
+      <Image src="logo.svg" alt="logo" />
     </StyledHeader>
   )
 }

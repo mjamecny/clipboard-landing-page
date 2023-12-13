@@ -20,10 +20,10 @@ const Image = styled.img``
 export default function Logos() {
   return (
     <StyledLogos>
-      <Image src="public/logo-google.png" alt="google logo" />
-      <Image src="public/logo-hp.png" alt="hp logo" />
-      <Image src="public/logo-ibm.png" alt="ibm logo" />
-      <Image src="public/logo-microsoft.png" alt="microsoft logo" />
+      <Image src="logo-google.png" alt="google logo" />
+      <Image src="logo-hp.png" alt="hp logo" />
+      <Image src="logo-ibm.png" alt="ibm logo" />
+      <Image src="logo-microsoft.png" alt="microsoft logo" />
     </StyledLogos>
   )
 }
